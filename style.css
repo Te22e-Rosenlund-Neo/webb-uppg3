@@ -14,3 +14,13 @@ p{
     flex-direction:row;
     flex-wrap:wrap;
 }
+.header{
+    background-color:black;
+    border:5px solid yellow;
+    color:red;
+    margin-left:300px;
+    margin-right:300px;
+    text-align:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
